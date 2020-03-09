@@ -30,5 +30,6 @@ fn main() {
     println!("right no {}", right.unwrap().get_no());
     println!("right left no {}", right_left.unwrap().get_no());
     println!("{:?}", right_left_right);
+    println!("test github actions");
 
 }
